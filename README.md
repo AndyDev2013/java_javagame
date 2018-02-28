@@ -1,6 +1,4 @@
-![Screenshot](http://puu.sh/mrbuR/cf6531f6e4.jpg)
-
-# java_javagame
+# dungeongame
 Second year java project to show everything I learned about objects and a lot of other fun stuff in the java library. It was a great experience and let me experiment with some game development.
 
 #Installation Notes
