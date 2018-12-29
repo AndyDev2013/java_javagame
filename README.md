@@ -1,7 +1,7 @@
 # dungeongame
 Second year java project to show everything I learned about objects and a lot of other fun stuff in the java library. It was a great experience and let me experiment with some game development.
 
-#Installation Notes
+# Installation Notes
 
 This is a small java program. So to run it you need java installed
 and have set up the enviroment variable.
